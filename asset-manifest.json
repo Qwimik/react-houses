@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/react-houses/static/js/main.9df26ffd.js",
+    "static/media/img-interior-1.jpg": "/react-houses/static/media/img-interior-1.73960a9b965e0f530bd8.jpg",
+    "static/media/img-house-4.jpg": "/react-houses/static/media/img-house-4.4ee3bc38fb3fe29b0222.jpg",
+    "static/media/img-house-5.jpg": "/react-houses/static/media/img-house-5.790c784986d819b3461e.jpg",
+    "static/media/img-house-2.jpg": "/react-houses/static/media/img-house-2.f9546d9139bcb6bfde80.jpg",
+    "static/media/img-house-3.jpg": "/react-houses/static/media/img-house-3.bd5ea2db287ea17a989a.jpg",
+    "static/media/img-house-1.jpg": "/react-houses/static/media/img-house-1.92410e363753d01f573c.jpg",
+    "index.html": "/react-houses/index.html",
+    "main.9df26ffd.js.map": "/react-houses/static/js/main.9df26ffd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9df26ffd.js"
+  ]
+}
